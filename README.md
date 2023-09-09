@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# primeiroProjeto
-projeto para estudos
-=======
+
 # Primeiro Site
 
 Primeiros estudos com html inicado em 2012.
